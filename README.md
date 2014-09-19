@@ -1,0 +1,1 @@
+This repository has been created to submit my solution to the Shiny application assignment for the course *Developing Data Products* within Coursera Data Science Specialization.
